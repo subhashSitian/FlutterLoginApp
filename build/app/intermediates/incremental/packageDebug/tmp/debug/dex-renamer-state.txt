@@ -1,0 +1,4 @@
+#Sun Aug 30 00:22:12 BST 2020
+base.0=/Users/subhashsharma/development/app/myapp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
